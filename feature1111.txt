@@ -1,3 +1,9 @@
 feature file.
 
+<<<<<<< HEAD
 modified for feature1111
+=======
+121212
+121212
+121212
+>>>>>>> feature1111

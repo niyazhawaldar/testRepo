@@ -6,5 +6,9 @@ feature file.
 
 new line added 9090
 
+<<<<<<< HEAD
 
 release-a changes done here.....
+=======
+release-c changes done here.....
+>>>>>>> release-c

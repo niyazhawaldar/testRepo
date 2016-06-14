@@ -1,5 +1,9 @@
 this develop file....
 
+<<<<<<< Updated upstream
 master changes...
 
 relase-a changes
+=======
+changes in master
+>>>>>>> Stashed changes
